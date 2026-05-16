@@ -8,7 +8,7 @@
 54C:\Reactwithanuragsingh\Rest-Country-Website\src\Pages134233845945278652 1
 85C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\transformer-css\src134228132984678606 1
 89C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\regions\HK.js134228133015746753 0
-57C:\Reactwithanuragsingh\Rest-Country-Website\package.json134233859392422631 0
+57C:\Reactwithanuragsingh\Rest-Country-Website\package.json134233917905331107 0
 109C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js134228133008612789 0
 79C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\react-router-dom\dist134233859390966223 1
 94C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h134228133001874226 0
@@ -25,7 +25,7 @@
 89C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\regions\CR.js134228133001307339 0
 102C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\features\variable-fonts.js134228133034772222 0
 95C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\runtime-js\src\helpers\worker134228132995410717 1
-49C:\Reactwithanuragsingh\Rest-Country-Website\dist134233891871850697 1
+49C:\Reactwithanuragsingh\Rest-Country-Website\dist134233918396267922 1
 80C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\picomatch\lib\parse.js134228132986069803 0
 85C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@swc\helpers\_\_ts_metadata134228132998584877 1
 104C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134228133037876574 0
@@ -1660,7 +1660,7 @@
 106C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\features\orientation-sensor.js134228133025630070 0
 86C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\cache\lib\FSCache.js134228132984105293 0
 84C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\lightningcss\node\ast.d.ts134228132991094169 0
-86C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.98a3105c.js.map134233891871850697 0
+86C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.98a3105c.js.map134233918396237535 0
 101C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\core\test\fixtures\config\subfolder134228132989129592 1
 87C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\lightningcss\node\ast.js.flow134228132986221997 0
 100C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\lightningcss\node\browserslistToTargets.js134228132988346798 0
@@ -2735,7 +2735,7 @@
 67C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@lezer\lr134228132988470581 1
 81C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\rust\index.d.ts134228132988518271 0
 88C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@swc\helpers\src\_decorate.mjs134228133009621387 0
-83C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.11eb26d8.css134233891871434062 0
+83C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.11eb26d8.css134233918395698087 0
 99C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\source-map\dist\SourceMap.js.flow134228132984511303 0
 88C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@swc\helpers\src\_defaults.mjs134228133009671588 0
 74C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\detect-libc134228133037876574 0
@@ -3693,6 +3693,6 @@
 73C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\semver.cmd134228133037876574 0
 85C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\update-browserslist-db134228133037876574 0
 89C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\update-browserslist-db.cmd134228133037876574 0
-60C:\Reactwithanuragsingh\Rest-Country-Website\dist\index.html134233891871338815 0
-87C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.11eb26d8.css.map134233891871805642 0
-82C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.98a3105c.js134233891871621611 0
+60C:\Reactwithanuragsingh\Rest-Country-Website\dist\index.html134233918395627477 0
+87C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.11eb26d8.css.map134233918396197087 0
+82C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.98a3105c.js134233918395722553 0
