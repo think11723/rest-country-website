@@ -8,7 +8,7 @@
 54C:\Reactwithanuragsingh\Rest-Country-Website\src\Pages134233845945278652 1
 85C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\@parcel\transformer-css\src134228132984678606 1
 89C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\regions\HK.js134228133015746753 0
-57C:\Reactwithanuragsingh\Rest-Country-Website\package.json134233917905331107 0
+57C:\Reactwithanuragsingh\Rest-Country-Website\package.json134233922458495630 0
 109C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js134228133008612789 0
 79C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\react-router-dom\dist134233859390966223 1
 94C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h134228133001874226 0
@@ -3693,6 +3693,6 @@
 73C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\semver.cmd134228133037876574 0
 85C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\update-browserslist-db134228133037876574 0
 89C:\Reactwithanuragsingh\Rest-Country-Website\node_modules\.bin\update-browserslist-db.cmd134228133037876574 0
-60C:\Reactwithanuragsingh\Rest-Country-Website\dist\index.html134233918395627477 0
+60C:\Reactwithanuragsingh\Rest-Country-Website\dist\index.html134233918577228579 0
 87C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.11eb26d8.css.map134233918396197087 0
 82C:\Reactwithanuragsingh\Rest-Country-Website\dist\Rest-Country-Website.98a3105c.js134233918395722553 0
